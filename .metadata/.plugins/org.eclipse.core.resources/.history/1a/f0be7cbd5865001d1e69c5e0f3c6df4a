@@ -1,0 +1,11 @@
+package com.devsuperior.dsmeta.service;
+
+import java.util.List;
+
+import com.devsuperior.dsmeta.entities.Sale;
+
+public class SalesService {
+	public List<Sale>findSales() {
+		
+	}
+}
